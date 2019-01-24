@@ -2,13 +2,14 @@ body{
 	background-image: url("http://animalli.com/wp-content/uploads/2016/11/animals-closeup-macro-two-snail-bokeh-snails-animal-photos-for-free-download-1920x1080.jpg");
 	
 	color: white;
-	font-family: 'Corbel';
+	font-family: 'Verdana';
 }
 
 h1{
 	font-size: 450%;
 	letter-spacing: 10px;
 	font-weight: 20;
+	font-family: 'Corbel';
 	
 }
 
